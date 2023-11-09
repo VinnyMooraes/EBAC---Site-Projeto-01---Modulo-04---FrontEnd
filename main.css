@@ -81,7 +81,7 @@ section p{
 .imagem_store_font{
     margin-right: 32px;
 }
-section .contact{
+#contact .container{
     display: block;
 } 
 section .contact_methods{
